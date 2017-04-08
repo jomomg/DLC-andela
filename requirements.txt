@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fb4f401bea66e0d76debb5afd753902ca4413eab
 appdirs==1.4.3
 click==6.7
 Flask==0.12.1
@@ -9,6 +12,7 @@ MarkupSafe==1.0
 packaging==16.8
 pyparsing==2.2.0
 six==1.10.0
+<<<<<<< HEAD
 =======
 click==6.7
 Flask==0.12.1
@@ -17,4 +21,9 @@ Jinja2==2.9.6
 MarkupSafe==1.0
 SQLAlchemy==1.1.9
 >>>>>>> 5442dfd85dac0565612b0082c4d0d9e5cf50709f
+=======
+>>>>>>> fb4f401bea66e0d76debb5afd753902ca4413eab
 Werkzeug==0.12.1
+SQLAlchemy==1.1.9
+
+
